@@ -446,12 +446,14 @@ button:hover{
     }
     .clients_logo .logo{
         font-size: 24px;
+        margin-left: auto;
     }
     .clients_logo img{
-        width: 99px;
+        width: 120px;
     }
     #doApp{
         font-size: 24px;
+        text-align: center;
     }
     /* -----------------------------------about us */
     .about_text{
