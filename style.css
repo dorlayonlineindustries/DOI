@@ -628,14 +628,16 @@ button:hover{
         font-size: 5rem;
     }
     .footer .address{
+        margin-left: 0;
         order: 2;
     }
     .footer .contact{
+        margin-left: 0;
         order: 1;
     }
     .footer .sitemap{
         order: 3;
-        margin-left: 5rem;
+        margin-left: 0;
     }.footer a{
         font-size: 4rem;
     }
