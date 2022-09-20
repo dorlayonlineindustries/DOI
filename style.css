@@ -36,6 +36,7 @@ nav{
     border-bottom-style: solid;
     border-width: 1px;
     border-color: var(--grey);
+    margin-top: 1rem;
 }
 .logo{
     margin-left: 0;
@@ -95,7 +96,7 @@ nav{
 }
 .clients .header{
     font-family: 'Ubuntu', sans-serif;
-    font-family: 500;
+    font-weight: 600;
     font-size: 2.1rem;
     width: 50rem;
 }
@@ -166,7 +167,7 @@ p{
 }
 .main_features .header {
     font-family: 'Ubuntu', sans-serif;
-    font-family: 500;
+    font-weight: 600;
     font-size: 2.1rem;
     width: 30rem;
 }
@@ -201,6 +202,9 @@ p{
     margin-left: 3rem;
 }
 .feature .learn_more{
+    margin-left: auto;
+}
+.main_features a{
     margin-left: auto;
 }
 button{
